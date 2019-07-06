@@ -1,0 +1,1 @@
+document.write('<div>written by test.js no.3</div>');
